@@ -1,0 +1,10 @@
+Model,Gender,n,True_approval_rate,Predicted_approval_rate,TPR
+Logistic Regression,Female,25,0.56,0.72,1.0
+Logistic Regression,Male,96,0.7291666666666666,0.8333333333333334,0.9857142857142858
+Logistic Regression,nan,2,0.5,1.0,1.0
+Random Forest,Female,25,0.56,0.64,0.9285714285714286
+Random Forest,Male,96,0.7291666666666666,0.78125,0.9142857142857143
+Random Forest,nan,2,0.5,1.0,1.0
+Gradient Boosting,Female,25,0.56,0.64,0.9285714285714286
+Gradient Boosting,Male,96,0.7291666666666666,0.8125,0.9285714285714286
+Gradient Boosting,nan,2,0.5,0.5,0.0

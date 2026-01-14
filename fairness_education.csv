@@ -1,0 +1,7 @@
+Model,Education,n,True_approval_rate,Predicted_approval_rate,TPR
+Logistic Regression,Graduate,100,0.71,0.83,0.9859154929577465
+Logistic Regression,Not Graduate,23,0.6086956521739131,0.7391304347826086,1.0
+Random Forest,Graduate,100,0.71,0.78,0.9295774647887324
+Random Forest,Not Graduate,23,0.6086956521739131,0.6521739130434783,0.8571428571428571
+Gradient Boosting,Graduate,100,0.71,0.81,0.9295774647887324
+Gradient Boosting,Not Graduate,23,0.6086956521739131,0.6086956521739131,0.8571428571428571
